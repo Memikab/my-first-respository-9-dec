@@ -7,5 +7,5 @@ function draw() {
     noStroke();
     circle(100,100,25);
 
-    circle(windowWidth/2,windowHeight/2,100);
+    circle(Width/2,Height/2,100);
 }
