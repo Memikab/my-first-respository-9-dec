@@ -8,4 +8,5 @@ function draw() {
     circle(100,100,25);
 
     circle(400,300,100);
+    circle(600,500,100);
 }
